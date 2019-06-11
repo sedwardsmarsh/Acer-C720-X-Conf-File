@@ -1,1 +1,1 @@
-# acerc720xconf
+# Acer C720 X conf files
